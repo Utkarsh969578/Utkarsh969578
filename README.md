@@ -20,7 +20,7 @@
 
 ## 📫 Let's Connect
 
-- GitHub: [github.com/yourusername](https://github.com/Utkarsh969578)
+- GitHub: [github.com/Utkarsh969578](https://github.com/Utkarsh969578)
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - Email: utkarshdubey20017@gmail.com
 
